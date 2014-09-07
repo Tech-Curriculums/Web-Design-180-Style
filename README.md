@@ -25,17 +25,17 @@ Some topics:
 
 ## Framework References:
 
-###Flexbox 
+####Flexbox 
 - http://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - http://dundalek.com/css3-flexbox-reference/
 
 ## Templates:
 
-### Bootstrap
+#### Bootstrap
   - http://startbootstrap.com/template-categories/all/
 
-### Foundation
+#### Foundation
   - http://foundation.zurb.com/learn/website-examples.html
 
-### Flexbox
+#### Flexbox
   - http://codepen.io/collection/KegmA/
