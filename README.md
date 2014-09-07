@@ -25,16 +25,11 @@ Some topics:
 
 ## Framework References:
 
-
-#### Bootstrap
-- http://getbootstrap.com/
-
-#### Foundation
-- http://foundation.zurb.com/
-
-#### Flexbox 
-- http://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- http://dundalek.com/css3-flexbox-reference/
+| Framework | Link |
+| :---: | :---: |
+|  Bootstrap | http://getbootstrap.com/ |
+| Foundation | http://foundation.zurb.com/ |
+| Flexbox | http://css-tricks.com/snippets/css/a-guide-to-flexbox/  http://dundalek.com/css3-flexbox-reference/ |
 
 
 ## Templates:
