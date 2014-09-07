@@ -31,14 +31,11 @@ Some topics:
 | Foundation | <ul><li>http://foundation.zurb.com/</li></ul> |
 | Flexbox |   <ul><li>http://css-tricks.com/snippets/css/a-guide-to-flexbox/</li><li>http://dundalek.com/css3-flexbox-reference/ </li> |
 
-
 ## Templates:
 
-#### Bootstrap
-  - http://startbootstrap.com/template-categories/all/
 
-#### Foundation
-  - http://foundation.zurb.com/learn/website-examples.html
-
-#### Flexbox
-  - http://codepen.io/collection/KegmA/
+| Template Type | Link |
+| :--- | :--- |
+|  Bootstrap | <ul><li>http://startbootstrap.com/template-categories/all/</li></ul> |
+| Foundation | <ul><li>http://foundation.zurb.com/learn/website-examples.html</li></ul> |
+| Flexbox |   <ul><li>http://codepen.io/collection/KegmA/</li></ul> |
