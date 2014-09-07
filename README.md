@@ -30,9 +30,12 @@ Some topics:
 - http://dundalek.com/css3-flexbox-reference/
 
 ## Templates:
+
 ### Bootstrap
   - http://startbootstrap.com/template-categories/all/
+
 ### Foundation
   - http://foundation.zurb.com/learn/website-examples.html
+
 ### Flexbox
   - http://codepen.io/collection/KegmA/
