@@ -29,10 +29,7 @@ Some topics:
 | :---: | :---: |
 |  Bootstrap | http://getbootstrap.com/ |
 | Foundation | http://foundation.zurb.com/ |
-| Flexbox |  
-
-* http://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
-* http://dundalek.com/css3-flexbox-reference/ |
+| Flexbox |   <ul><li>http://css-tricks.com/snippets/css/a-guide-to-flexbox/</li><li>http://dundalek.com/css3-flexbox-reference/ </li> |
 
 
 ## Templates:
